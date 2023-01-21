@@ -28,14 +28,14 @@ I am trying to always have a positive attitude, communicate often and efficientl
 
 What else catches my attention? Snowboarding, long travels, mountain biking/hiking, camping, trail running, marathons (half ones these days).
 
-Next programming languages to learn : Golang, Elm, Rust, Erlang, Haskell. But most probably TypeScript on Node.js.
+Next programming languages to learn : Golang, Elm, Rust, Erlang, Haskell.
 
 Bucket list locations: Japan, Australia + New Zealand, Iceland, Patagonia
 
 # Work experience
 
 ### January 2022 – Current
-#### Software Developer | Shopify Commerce Germany GmbH, Berlin, Germany
+#### Software Developer | Ruby/Rails | Shopify Commerce Germany GmbH, Berlin, Germany
 
 <table>
 	<tr><th>Team</th><td>Billing / Partner Payouts</td></tr>
@@ -49,7 +49,7 @@ Working outside the Core app, the daily activities consist of improving payment 
 -----------------------------------
 
 ### November 2020 – January 2022
-#### Senior Software Developer | Contorion GmbH, Berlin, Germany  
+#### Senior Software Developer | PHP | Contorion GmbH, Berlin, Germany  
 
 <table>
 	<tr><th>Team</th><td>Payments, Fulfillment</td></tr>
@@ -64,7 +64,7 @@ The second team was the Fulfillment one, which was a perfect fit for me. Landing
 -----------------------------------
 
 ### October 2019 – October 2020
-#### Senior Software Developer | Spriker Systems GmbH, Berlin, Germany
+#### Senior Software Developer | PHP | Spriker Systems GmbH, Berlin, Germany
 
 <table>
 	<tr><th>Team</th><td>Enabling Services</td></tr>
@@ -79,7 +79,7 @@ As the name implies, Enabling Services, I am part of the department that starts 
 -----------------------------------
 
 ### December 2018 – September 2019
-#### Senior Software Developer | Wayfair GmbH., Berlin, Germany
+#### Senior Software Developer | PHP | Wayfair GmbH., Berlin, Germany
 
 <table>
 	<tr><th>Team</th><td>Supplier Extranet / Supplier fulfillment and performance</td></tr>
@@ -109,7 +109,7 @@ On top of my normal tasks as a senior developer, I have taken over supervising d
 -----------------------------------
 
 ### April 2015 – September 2017
-#### Senior Software Developer | Sage Intacct, Inc., Cluj-Napoca, Romania
+#### Senior Software Developer | PHP | Sage Intacct, Inc., Cluj-Napoca, Romania
 
 <table>
 	<tr><th>Team</th><td>Backend Infrastructure, OPS1</td></tr>
@@ -139,7 +139,7 @@ Driven by the need to automate some long running tasks, like the creation and ac
 -----------------------------------
 
 ### May 2014 – March 2015
-#### Software Developer | Acunetix, Cluj-Napoca, Romania
+#### Software Developer | C++/Qt/JavaScript | Acunetix, Cluj-Napoca, Romania
 <table>
 	<tr><th>Project</th><td>Login Sequence Recorder (part of the Web Vulnerability Scanner)</td></tr>
 	<tr><th>Keywords</th><td>C++, QT4.8, WebKit, Win7, Visual Studio 2010, SVN (Tortoise)</td></tr>
@@ -150,7 +150,7 @@ The project was part of the Web Vulnerability Scanner and it is the tool that is
 -----------------------------------
 
 ### July 2012 – July 2014
-#### Software Developer | Accenture, Cluj-Napoca, Romania
+#### Software Developer | C++/Qt | Accenture, Cluj-Napoca, Romania
 <table>
 	<tr><th>Team</th><td>GUIDO (SIEMENS project) – Graphic UI with Dynamic Objects</td></tr>
 	<tr><th>Keywords</th><td>C++, QT4.8, Win7, WinXP, Visual Studio 2010 , ClearCase, SVN (Tortoise), Rational Team Concert</td></tr>
@@ -167,7 +167,7 @@ The verification step can be done by picture in picture recognition (PNG mostly)
 -----------------------------------
 
 ### May 2012 – July 2012
-#### iOS Developer | Pentalog, Iasi, Romania
+#### Software Developer | ObjectiveC | Pentalog, Iasi, Romania
 <table>
 	<tr><th>Team</th><td>DJUCED</td></tr>
 	<tr><th>Keywords</th><td>Objective-C, iPad, iOS5, C/C++, BASS and Elastique(3rd party audio libraries), MacOS Snow Leopard, XCode 4.3, SVN (Tortoise), JIRA</td></tr>
@@ -178,9 +178,9 @@ I developed an IOS 5.1 application for the iPad (iOS5). It was an audio applicat
 -----------------------------------
 
 ### June 2011 – May 2012
-#### Software Developer| Pentalog, Iasi, Romania / Ericsson Telekommunikation
+#### Software Developer | C/C++ | Pentalog, Iasi, Romania / Ericsson Telekommunikation
 <table>
-	<tr><th>Team</th><td>BSCS - Call rating and billing</td></tr>
+	<tr><th>Team</th><td>BSCS iX - Call rating and billing</td></tr>
 	<tr><th>Keywords</th><td>C++, Windows XP, Unix, SunStudio, ClearCase, ClearQuest</td></tr>
 </table>
 
@@ -191,7 +191,7 @@ The backend part of the project, which I worked on, was composed of independent 
 -----------------------------------
 
 ### November 2007 – June 2011
-#### Software Developer | Embarcadero Technologies, Iasi, Romania
+#### Software Developer | C++ | Embarcadero Technologies, Iasi, Romania
 <table>
 	<tr><th>Team</th><td>ER/Studio Data Architect</td></tr>
 	<tr><th>Keywords</th><td>C/C++, STL, MFC, Windows XP, Windows7, VisualStudio2003/2008, Perforce, JIRA/Confluence, AGILE</td></tr>
@@ -206,7 +206,7 @@ An interesting part of the project was the implementation of the CodeGear’s Zo
 -----------------------------------
 
 ### April 2006 – November 2007
-#### Software Developer | ArtInfo, Iasi, Romania / ArtiInformatiche, Sacile PN, Italy
+#### Software Developer | C++ | ArtInfo, Iasi, Romania / ArtiInformatiche, Sacile PN, Italy
 <table>
 	<tr><th>Team</th><td>Ideale2000, Ideale2005</td></tr>
 	<tr><th>Keywords</th><td>C/C++, STL, MFC, ActiveX, Windows XP, VisualStudio 6, VisualStudio 2005, SQL Server Management Studio, MS SQL Server 2000/2005, SVN/Tortoise</td></tr>
