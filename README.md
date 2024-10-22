@@ -34,11 +34,27 @@ Bucket list locations: Japan, Australia + New Zealand, Iceland, Patagonia
 
 # Work experience
 
-### January 2022 – Current
+### September 2023 – Now
+#### Software Developer | PHP | Waterdrop, Berlin, Germany
+
+<table>
+	<tr><th>Team</th><td>Tech & ERP</td></tr>
+	<tr><th>Keywords</th><td>PHP, Laravel, Postgresql, API integration, PHPSTorm, Jira, Confluence, AGILE</td></tr>
+</table>
+
+I am part of the Tech&ERP department with one foot on the ERP side and the other in the Shopify one..
+
+As part of the ERP side I manage the POS service which translates POS transactions, mainly ShopifyPOS, to NetSuite records.
+
+As part of the Shopify team I own the Content service, integrating a CMS into the Shopify stores management process. The CMS is used as the single point of contact for content managers to controll all the configured Shopify stores metadata.
+
+-----------------------------------
+
+### January 2022 – June 2023
 #### Software Developer | Ruby/Rails | Shopify Commerce Germany GmbH, Berlin, Germany
 
 <table>
-	<tr><th>Team</th><td>Billing / Partner Payouts</td></tr>
+	<tr><th>Team</th><td>Billing > Partner Payouts</td></tr>
 	<tr><th>Keywords</th><td>Ruby, Ruby On Rails, VSCode, Github</td></tr>
 </table>
 
